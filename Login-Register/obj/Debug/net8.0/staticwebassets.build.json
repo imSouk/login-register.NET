@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9rMTXiU6B4pvHbI/QOs3jhzkMON2nQsJ1Wd4TIpWlE0=",
+  "Source": "Login-Register",
+  "BasePath": "_content/Login-Register",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
